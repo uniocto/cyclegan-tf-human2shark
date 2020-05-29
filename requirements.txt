@@ -1,0 +1,6 @@
+tensorflow-gpu
+numpy
+scipy
+pillow
+imageio
+tf_slim
